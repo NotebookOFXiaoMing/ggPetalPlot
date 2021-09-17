@@ -1,6 +1,6 @@
 Package: ggpetal
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Plot Petal Diagram Using ggplot2
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
