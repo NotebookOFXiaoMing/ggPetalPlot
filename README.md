@@ -1,1 +1,2 @@
-ggPetalPlot
+ggpetal
+R package development
